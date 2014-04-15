@@ -16,11 +16,11 @@ Ruby 1.9.3+ blah blah.
 
 Run it:
 
-  $ sshbro
+    $ sshbro
 
 It will prompt you for things. To update your SSH config file:
 
-  $ sshbro > ~/.ssh/config
+    $ sshbro > ~/.ssh/config
 
 ## TODO:
 
